@@ -1,0 +1,6 @@
+com/egemen/kuzu/bookstore/ServletInitializer.class
+com/egemen/kuzu/bookstore/ProductService.class
+com/egemen/kuzu/bookstore/IProductService.class
+com/egemen/kuzu/bookstore/BookstoreApplication.class
+com/egemen/kuzu/bookstore/Book.class
+com/egemen/kuzu/bookstore/ProductController.class
